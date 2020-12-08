@@ -1,0 +1,16 @@
+
+
+Nombres: Daniel Cruel, Juan Sebastián Rodríguez Paz
+Fecha: 7/12/20
+
+1. ¿Qué tipo de errores se presentaron o se pueden presentar con su implementación al problema?
+
+En nuestro código se identificó unos posibles errores de sintaxis por parte del código, ya que existen diferentes opciones que el cliente puede digitar de forma incorrecta que hacen que el proceso no reconozca los datos suministrados por el mismo, un ejemplo en el momento en que el cliente se identifica como profesor o estudiante 
+
+El individuo puede digitar de manera incorrecta ya sea con mayúsculas o minúsculas intercaladas o completas. Esto influye en el proceso del código ya que no reconoce esa entrada, siempre y cuando las variables definidas en el código estén en mayúscula o en minúscula. 
+
+2. Que estrategias podría usar para solucionar estos errores?
+
+La manera en que solucionamos estos posibles errores de sintaxis es por medio del conector lógico o que en nuestro código es reconocido como or, este conector da la opción de que sean con minúscula o con mayúscula las entradas que digite el cliente, sin embargo, esta solución no abarca totalmente todas las posibles ya que el cliente puede escribir una entrada por ejemplo con la primera letra en mayúscula, esto haría que el código no reconozca esa entrada y por ende no realice el debido proceso 
+
+
