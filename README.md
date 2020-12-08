@@ -10,6 +10,7 @@ Se desea saber cuanto debe pagar en total por la compra realizada cuando es un p
 * Cedula
 
 ## ¿ QUE MODELO COMPUTACIONAL LO RESUELVE?
-El modelo computacional que resolvio este problema esta en parcial3.py
+El modelo computacional que resolvio este problema esta en 
+parcial3.py
 ## ¿SU ALGORITMO QUE RECIBE COMO ENTRADA?
 
